@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import profile from "./components/profile.jsx";
 import About from "./components/About.jsx";
