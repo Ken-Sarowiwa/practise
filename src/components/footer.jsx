@@ -1,16 +1,39 @@
 import React from 'react'
 import ReactDOM from 'react-dom';
-import { SocialIcon } from 'react-social-icons';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faYoutube,
+  faFacebook,
+  faTwitter,
+  faInstagram
+} from "@fortawesome/free-brands-svg-icons";
 
 export default function footer() {
   return (
-    <div>
-      ReactDOM.render(<SocialIcon url="https://twitter.com/kenaroot" />, document.footer);
-      ReactDOM.render(<SocialIcon url="https://www.linkedin.com/in/ken-sarowiwa-7504a5178/" />, document.footer);
-      ReactDOM.render(<SocialIcon url="https://github.com/Ken-Sarowiwa"/>, document.footer);
-      ReactDOM.render(<SocialIcon url="https://www.instagram.com/kenafrica4" />, document.footer);
+    <footer>
+     <h3>Follow me on this pages... </h3>
+     <a href="https://www.youtube.com/c/jamesqquick">
+     <FontAwesomeIcon icon={faYoutube} size="2x" />
+      </a>
 
-    </div>
+      <a href="https://www.youtube.com/c/jamesqquick"
+        className="youtube social">
+        <FontAwesomeIcon icon={faYoutube} size="2x" />
+      </a>
+      <a href="https://www.facebook.com/learnbuildteach/"
+        className="facebook social">
+        <FontAwesomeIcon icon={faFacebook} size="2x" />
+      </a>
+      <a href="https://www.twitter.com/jamesqquick" className="twitter social">
+        <FontAwesomeIcon icon={faTwitter} size="2x" />
+      </a>
+      <a href="https://www.instagram.com/learnbuildteach"
+        className="instagram social">
+        <FontAwesomeIcon icon={faInstagram} size="2x" />
+      </a>
+
+    </footer>
   )
 }
 
+      
