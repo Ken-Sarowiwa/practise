@@ -11,8 +11,8 @@ import {
 
 export default function Footer() {
   return (
-    <footer>
-     <h3>Follow me on this pages... </h3>
+    <footer className='footer'>
+     <h3 className='follow'>Follow me on this pages... </h3>
      <a href="https://www.youtube.com/c/jamesqquick">
      <FontAwesomeIcon icon={faYoutube} size="2x" />
       </a>
