@@ -1,13 +1,13 @@
 import React from 'react';
 import kenafrica from "./kenafrica.jpeg";
 
-export default function profile(){
+export default function Profile(){
     return(
-        <div>
-            <img src="./kenafrica.jpeg" alt='Kenafrica'/>
-            <h1>SOFTWARE ENGINEER</h1>
-            <h3>Ken Sarowiwa</h3>
-            <h4>welcome to <a href="kenafrica~music.com"></a></h4>
+        <div className='profile'>
+            <img src={kenafrica} alt='Kenafrica' className='kenafrica'/>
+            <h1 className='Title'>SOFTWARE ENGINEER</h1>
+            <h3 className='Name'>Ken Sarowiwa</h3>
+            <h4 className='Welcome'>welcome to <a href="kenafrica~music.com"></a></h4>
         </div>
     )
 }

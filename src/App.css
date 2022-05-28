@@ -1,0 +1,9 @@
+.profile{
+    display: flex;
+    position: relative;
+}
+
+.kenafica{
+    width: 100px;
+    height: 200px;
+}

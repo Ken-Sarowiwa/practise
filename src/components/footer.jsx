@@ -5,10 +5,11 @@ import {
   faYoutube,
   faFacebook,
   faTwitter,
-  faInstagram
+  faInstagram,
+  faLinkedinIn
 } from "@fortawesome/free-brands-svg-icons";
 
-export default function footer() {
+export default function Footer() {
   return (
     <footer>
      <h3>Follow me on this pages... </h3>
@@ -18,7 +19,7 @@ export default function footer() {
 
       <a href="https://www.youtube.com/c/jamesqquick"
         className="youtube social">
-        <FontAwesomeIcon icon={faYoutube} size="2x" />
+        <FontAwesomeIcon icon={faLinkedinIn} size="2x" />
       </a>
       <a href="https://www.facebook.com/learnbuildteach/"
         className="facebook social">
