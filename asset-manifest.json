@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/practise/static/css/main.334c6aca.css",
+    "main.js": "/practise/static/js/main.93ac3b26.js",
+    "static/js/787.1aee0d94.chunk.js": "/practise/static/js/787.1aee0d94.chunk.js",
+    "static/media/kenafrica.jpeg": "/practise/static/media/kenafrica.f7fb5d22fc8a8eabc1b4.jpeg",
+    "index.html": "/practise/index.html",
+    "main.334c6aca.css.map": "/practise/static/css/main.334c6aca.css.map",
+    "main.93ac3b26.js.map": "/practise/static/js/main.93ac3b26.js.map",
+    "787.1aee0d94.chunk.js.map": "/practise/static/js/787.1aee0d94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c6aca.css",
+    "static/js/main.93ac3b26.js"
+  ]
+}
