@@ -10,8 +10,8 @@ import guitar from "./acoustic-guitar-icon-vector-20784513.jpg";
 export default function Profile(){
     return(
         <div className='profile'>
-            <img src={guitar} width="50px" height="50px" className='logo'/>
-            <AliceCarousel autoPlay autoPlayInterval="2000">
+            <div className='logo'><img src={guitar} width="50px" height="50px"/></div>
+            <AliceCarousel autoPlay autoPlayInterval="1000">
                 <img src={kenafrica} alt='Kenafrica' className='sliderimg' width="80%" height="50%" top="44px" left="144px"/>
                 <img src={kena} alt='Kenafrica' className='sliderimg' width="80%" height="50%" top="44px" left="144px"/>
                 <img src={kena1} alt='Kenafrica' className='sliderimg' width="80%" height="50%" top="44px" left="144px"/>

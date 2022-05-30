@@ -21,7 +21,7 @@
 .footer{
     display: flex;
     flex-direction: row;
-    background: #161619;
+    background-color: aquamarine;
     border-radius: 0px 0px 10px 10px;
     align-items: center;
     justify-content: center;
@@ -72,7 +72,8 @@
     height: 150px;
     box-shadow: 0 4px 6px 0 rgba(34, 60, 80, .16);
     transition: all ease-in-out .2s;
-    position:fixed; 
-	top:0; 
-	left:0;
+    position: absolute;
+    left: 100px;
+    top:20px;
+    
  }
