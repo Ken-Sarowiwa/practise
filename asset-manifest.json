@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/practise/static/css/main.84506083.css",
-    "main.js": "/practise/static/js/main.e1e00914.js",
+    "main.css": "/practise/static/css/main.d59f03b7.css",
+    "main.js": "/practise/static/js/main.39e36c80.js",
     "static/js/787.1aee0d94.chunk.js": "/practise/static/js/787.1aee0d94.chunk.js",
     "static/media/kenafrica.jpeg": "/practise/static/media/kenafrica.f7fb5d22fc8a8eabc1b4.jpeg",
     "static/media/kena and barbs.jpeg": "/practise/static/media/kena and barbs.2869f5f8727dc653a69e.jpeg",
     "static/media/kena.jpeg": "/practise/static/media/kena.9cea18ed1824e4ba48cc.jpeg",
     "static/media/gang.jpeg": "/practise/static/media/gang.1b35b18c9ac6ea6c9ea6.jpeg",
+    "static/media/acoustic-guitar-icon-vector-20784513.jpg": "/practise/static/media/acoustic-guitar-icon-vector-20784513.4722fa767809a8766672.jpg",
     "index.html": "/practise/index.html",
-    "main.84506083.css.map": "/practise/static/css/main.84506083.css.map",
-    "main.e1e00914.js.map": "/practise/static/js/main.e1e00914.js.map",
+    "main.d59f03b7.css.map": "/practise/static/css/main.d59f03b7.css.map",
+    "main.39e36c80.js.map": "/practise/static/js/main.39e36c80.js.map",
     "787.1aee0d94.chunk.js.map": "/practise/static/js/787.1aee0d94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84506083.css",
-    "static/js/main.e1e00914.js"
+    "static/css/main.d59f03b7.css",
+    "static/js/main.39e36c80.js"
   ]
 }
